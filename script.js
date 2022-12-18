@@ -3,7 +3,7 @@ const cardsContainer = document.getElementById('time-content')
 const dailyTab = document.querySelector('[data-daily')
 const weeklyTab = document.querySelector('[data-weekly]')
 const monthlyTab = document.querySelector('[data-monthly]')
-let timeToRender;
+let timeToRender = "weekly";
 
 
 document.addEventListener('click',(e)  => {
@@ -48,3 +48,4 @@ async function getCardData(timeParam){
     cardsContainer.innerHTML = setHtmlCardData(chosenTimeFrame,data)
 
 }
+getCardData(timeToRender)
