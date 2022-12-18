@@ -23,6 +23,6 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/@nelsonleone)
-- Twitter - (https://www.twitter.com/@nelsonleone9678)
+- Frontend Mentor - [](https://www.frontendmentor.io/profile/nelsonleone)
+- Twitter - [](https://twitter.com/nelsonleone9678)
 
